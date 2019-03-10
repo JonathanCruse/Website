@@ -1,0 +1,11 @@
+/Users/jonathancruse/OneDrive/Documents/Website/Website/bin/Debug/netcoreapp2.2/Website.deps.json
+/Users/jonathancruse/OneDrive/Documents/Website/Website/bin/Debug/netcoreapp2.2/Website.runtimeconfig.json
+/Users/jonathancruse/OneDrive/Documents/Website/Website/bin/Debug/netcoreapp2.2/Website.runtimeconfig.dev.json
+/Users/jonathancruse/OneDrive/Documents/Website/Website/bin/Debug/netcoreapp2.2/Website.dll
+/Users/jonathancruse/OneDrive/Documents/Website/Website/bin/Debug/netcoreapp2.2/Website.pdb
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.csprojAssemblyReference.cache
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.csproj.CoreCompileInputs.cache
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.AssemblyInfoInputs.cache
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.AssemblyInfo.cs
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.dll
+/Users/jonathancruse/OneDrive/Documents/Website/Website/obj/Debug/netcoreapp2.2/Website.pdb
